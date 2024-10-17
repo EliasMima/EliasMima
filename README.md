@@ -4,11 +4,11 @@
 <div align=center> 
   <h2>💖Stats💖</h2>
   <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daynlight&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EliasMimadaynlight&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliasMimadaynlight&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliasMimadaynlight&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliasMimadaynlight&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EliasMimadaynlight&theme=algolia">
 </div>
 
 
